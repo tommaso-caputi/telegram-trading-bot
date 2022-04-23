@@ -1,6 +1,7 @@
 # trading-bot
 Simple telegram trading-bot, with mysql database
 
+
 Requirements:
 ```bash
 $ pip install tradingview-ta mysql pyTelegramBotAPI
